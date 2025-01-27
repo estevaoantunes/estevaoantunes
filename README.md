@@ -1,4 +1,4 @@
-Olá Mundo 🖐️, me chamo Estevão Antunes
+**Olá Mundo 🖐️, me chamo Estevão Antunes**
 
 **Seja muito bem-vindo(a) ao meu perfil do GitHub ! Me Chamo Estevão Antunes, tenho 22 anos e moro em Belo Horizonte/MG.**
 
@@ -15,14 +15,19 @@ Olá Mundo 🖐️, me chamo Estevão Antunes
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=estevaoantunes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-##
+
 
 O que eu estou aprendendo ? 
 
 
-<div>
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/><t></t>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/>       
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="40" height="40"/>      
+<div style="display: inline_block"><br>
+  <img align="center" alt="Estevao-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">     
+  <img align="center" alt="Estevao-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Estevao-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Estevao-CSSTW" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg">
+  <img align="center" alt="Estevao-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
+
+##
+
+
