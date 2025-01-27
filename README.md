@@ -7,9 +7,9 @@
 **Desde cedo me move a curiosidade sobre a área de TI, me fazendo ser ambicioso em aprender tecnólogias novas.**
 
 <div>
-  <a href="https://github.com/seu-usuário-aqui">
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?estevaoantunes&layout=compact&langs_count=7&theme=dracula"/>
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?estevaoantunes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<a href="https://github.com/seu-usuário-aqui">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=estevaoantunes&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=estevaoantunes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 - 🔭 I’m currently working on ...
