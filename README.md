@@ -1,9 +1,10 @@
-## Hi there 👋
+##<h1>Olá Mundo 🖐️, sou Estevão Antunes</h1> 
 
-<!--
-**estevaoantunes/estevaoantunes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Seja muito bem-vindo(a) ao meu perfil do GitHub ! Me Chamo Estevão Antunes, tenho 22 anos e moro em Belo Horizonte/MG.**
+**Sou estudante em Análise e Desenvolvimento de Sistemas da PUC Minas além de ser formado na minha trajetória em Sistema de Informação da Puc Virtual.**
+**Desde cedo me move a curiosidade sobre TI, me fazendo ser ambicioso em aprender tecnólogias novas**
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +14,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
