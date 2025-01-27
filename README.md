@@ -1,4 +1,4 @@
-##<h1 style=" align: center">Olá Mundo 🖐️, sou Estevão Antunes</h1> 
+##<h1 style="display: center">Olá Mundo 🖐️, sou Estevão Antunes</h1> 
 
 **Seja muito bem-vindo(a) ao meu perfil do GitHub ! Me Chamo Estevão Antunes, tenho 22 anos e moro em Belo Horizonte/MG.**
 **Sou estudante em Análise e Desenvolvimento de Sistemas da PUC Minas além de ser formado na minha trajetória em Sistema de Informação da Puc Virtual.**
