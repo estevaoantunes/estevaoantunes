@@ -1,4 +1,4 @@
-**Olá Mundo 🖐️, me chamo Estevão Antunes**
+<h1 align="center">**Olá Mundo 🖐️, me chamo Estevão Antunes**</h1>
 
 **Seja muito bem-vindo(a) ao meu perfil do GitHub ! Me Chamo Estevão Antunes, tenho 22 anos e moro em Belo Horizonte/MG.**
 
@@ -16,8 +16,8 @@
 </div>
 
 
-
-O que eu estou aprendendo ? 
+<br>
+<h1>O que eu estou aprendendo ?</h1>
 
 
 <div style="display: inline_block"><br>
