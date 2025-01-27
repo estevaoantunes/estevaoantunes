@@ -12,7 +12,9 @@ Olá Mundo 🖐️, me chamo Estevão Antunes
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=estevaoantunes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-##O que eu estou aprendendo ? 
+##
+
+O que eu estou aprendendo ? 
 
 
 <div>
