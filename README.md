@@ -1,4 +1,4 @@
-##Olá Mundo 🖐️, me chamo Estevão Antunes
+Olá Mundo 🖐️, me chamo Estevão Antunes
 
 **Seja muito bem-vindo(a) ao meu perfil do GitHub ! Me Chamo Estevão Antunes, tenho 22 anos e moro em Belo Horizonte/MG.**
 
@@ -12,10 +12,13 @@
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=estevaoantunes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-##Estou Aprendendo
+##O que eu estou aprendendo ? 
 
 
 <div>
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/><t></t>
   
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />      
 </div>
