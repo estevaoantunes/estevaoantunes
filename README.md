@@ -30,10 +30,8 @@
 </div>
 
 
-
-<h1 style="display: center">Contato</h1>
-
 <div>
+<h1 style="display: center">Contato</h1>
 <a href="https://www.linkedin.com/in/estevao-antunes/" target="_blank"><img align="center" loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
